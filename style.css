@@ -20,14 +20,14 @@ main{
     width: 350px;
 }
 .section-two{
-    display: flex;
+    display: block;
     margin: auto;
     margin-top: 100px;
     width: 500px;
 }
 .myskills{
     margin: auto;
-    width: 250px;
+    width: 500px;
 
 }
 .myskills h2, .myhobbies h2{
@@ -35,5 +35,5 @@ main{
 }
 .myhobbies{
     margin: auto;
-    width: 250px;
+    width: 500px;
 }
